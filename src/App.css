@@ -70,3 +70,13 @@ a:hover{
   color: white;
   padding: 25px;
 }
+
+/** Signup form css **/
+.sign-up-form{
+  margin: 0 auto;
+  max-width: 600px;
+  background-color: #d3d3d333;
+  padding: 25px;
+}
+
+
